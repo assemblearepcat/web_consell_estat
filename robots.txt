@@ -1,0 +1,4 @@
+Sitemap: https://consellestat.cat/sitemap.xml
+
+User-agent: *
+Disallow:
